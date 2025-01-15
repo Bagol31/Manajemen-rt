@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051916283515",
+    "project_id": "aplikasiku-e5011",
+    "storage_bucket": "aplikasiku-e5011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051916283515:android:3f8491ab9e5d54e643fcde",
+        "android_client_info": {
+          "package_name": "com.aplikasiku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUOvUHPeEa4NVgV8NKnP6EBJZkDdrFOh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
